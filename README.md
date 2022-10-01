@@ -3,7 +3,7 @@
 
 # •	Innovation
 
-Education is an essential part of our lives. Transforming this vast area is no easy task. There is a demand for something that fills the technical gaps created by online programs. This is where the "Epiqu" app comes into play. We've redesigned a traditional quiz application to make it more like a game. This app is a quiz app disguised as a game, so it arouses children's interest.
+Education is an essential part of our lives. Transforming this vast area is no easy task. There is a demand for something that fills the technical gaps created by online programs. This is where the "EpiQu" app comes into play. We've redesigned a traditional quiz application to make it more like a game. This app is a quiz app disguised as a game, so it arouses children's interest.
 
 
 # •	Old Education System
@@ -22,7 +22,7 @@ However, beginning in March 2020, things were set to change. It is, indeed, the 
 We've all returned to our classes, but things don't feel the same. Teaching was exciting in the online form with the use of technology, and our brains just cannot return to way things were. There is a gap following returning to physical engagement. We are unable to adjust since we are accustomed to incorporating technology into our educational system.
 
 
-# •	About Epiqu
+# •	About EpiQu
 
 ![1](https://user-images.githubusercontent.com/91861600/193430906-05b91f68-f439-45df-a910-e264249494c1.png)
 
